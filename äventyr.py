@@ -193,9 +193,7 @@ def start():
     print("1. Go left")
     print("2. Go right")
 
-    choice = input("What do you do? ")
-
-    val = input("Vad väljer du? ")
+    val = input("What do you do? ")
 
     if val == "1":
         stuga()
